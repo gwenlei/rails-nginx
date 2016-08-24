@@ -1,0 +1,19 @@
+galaxy_info:
+  author: gwenlei
+  description: install rails
+  company: onecloud
+  
+  license: MIT
+  
+  min_ansible_version: 1.2
+
+  platforms:
+  - name: Ubuntu
+    versions:
+    - xenial
+  
+  galaxy_tags: 
+     - nginx
+
+dependencies: []
+
